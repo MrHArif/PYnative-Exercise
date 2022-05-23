@@ -28,3 +28,12 @@ def cirAr (radius):
     print(Area)
 
 cirAr(1.1)
+
+
+def sleep_in(weekday, vacation):
+    if (weekday == True):
+        vacation == False
+        sleep_in()== False
+        print()
+    else:
+        sleep_in()== True
